@@ -1,1 +1,2 @@
 que es un repositorio? es la vida diaria de mi trabajo o proyecto, en el se registra fecha de modificación, quien realizo la modificación, lugar donde de realizó la modificación así como las multiples modificaciones que se realizan al sofwer o proyectos , si se agregaron imagenes,textos y color. 
+Cual es la diferencia entre un repositorio público y un repositorio privado? El repositorio privado no puede ingresar ninguna persona y en el repositorio público pueden ingresar usuarios a realizar modificaciones.
